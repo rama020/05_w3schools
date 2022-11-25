@@ -1,0 +1,10 @@
+a=5
+print(type(a))
+a="10"
+print(type(a))
+a=4.6
+print(type(a))
+a=50
+print(type(a))
+a=4.5
+print(type(a))
